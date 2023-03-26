@@ -1,0 +1,135 @@
+body {
+  background-color: rgb(146, 158, 163);
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 10px;
+  border-radius: 80%;
+}
+a:hover {
+  color: red;
+}
+ul {
+  color: transparent;
+  display: inline;
+  margin: 0;
+  padding: 20;
+}
+a {
+  color: black;
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
+div a {
+  text-decoration: none;
+  color: white;
+  font-size: 0px;
+  padding: 20px;
+  display: inline-block;
+}
+ul li {
+  display: inline-block;
+}
+ul li:hover {
+  background: transparent;
+}
+ul li:hover ul {
+  display: block;
+}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li {
+  background: transparent;
+  display: block;
+}
+ul li ul li a {
+  display: block !important;
+}
+ul li ul li:hover {
+  background: transparent;
+}
+.image3 {
+  margin: 120px auto;
+  width: 80%;
+  padding: 0px;
+}
+
+h1 {
+  color: rgb(181, 23, 110);
+  display: flex;
+  justify-content: center;
+}
+img {
+  display: block;
+  float: left;
+  width: 300px;
+  height: 260px;
+  padding: 0 10px 0 0;
+}
+.image1 {
+  margin: 20px auto;
+  width: 80%;
+  padding: 0px;
+}
+
+.image2 {
+  margin: 0px auto;
+  width: 80%;
+  padding: 0px;
+}
+.text1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text3 {
+  display: inline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p1 {
+  color: rgb(16, 50, 50);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+.image4 {
+  margin: 150px auto;
+  width: 80%;
+  padding: 0px;
+}
+.text4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image5 {
+  width: 10px;
+  margin: 10px auto;
+  width: 80%;
+  padding: 0px;
+}
+p {
+  align-items: flex-start;
+}
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tete {
+  font-size: larger;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.hi {
+  font-size: larger;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.image6 {
+  margin: 20px auto;
+  width: 100%;
+  padding: 4px;
+}
+.text5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

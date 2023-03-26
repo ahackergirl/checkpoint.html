@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(146, 158, 163);
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 10px;
+  border-radius: 50;
+  background-color: rgb(146, 158, 163);
+}
+a:hover {
+  color: red;
+}
+
+ul {
+  color: transparent;
+}
+a {
+  color: transparent;
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
+p {
+  color: rgb(9, 9, 9);
+  border: 5px solid rgb(146, 158, 163);
+  padding: 0px;
+  border-width: 10px;
+}
+h1 {
+  color: #0b4008;
+}
+.main2 {
+  justify-content: flex-end;
+}
+p {
+  font-size: large;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+img {
+  float: left;
+  width: 380px;
+  height: 300px;
+  padding: 0 10px 0 0;
+}
+.image {
+  margin: 0px auto;
+  width: 80%;
+  padding: 0px;
+}
+.image1 {
+  margin: 80px auto;
+  width: 80%;
+  padding: 0px;
+}
+.image2 {
+  margin: 10px auto;
+  width: 80%;
+  padding: 0px;
+}
+.text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(146, 158, 163);
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
+header {
+  background-color: rgb(146, 158, 163);
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 10px;
+  border-radius: 80%;
+}
+a:hover {
+  color: red;
+}
+ul {
+  color: transparent;
+  display: inline;
+  margin: 0;
+  padding: 20;
+}
+a {
+  color: black;
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
+div a {
+  text-decoration: none;
+  color: white;
+  font-size: 0px;
+  padding: 20px;
+  display: inline-block;
+}
+ul li {
+  display: inline-block;
+}
+ul li:hover {
+  background: transparent;
+}
+ul li:hover ul {
+  display: block;
+}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li {
+  background: transparent;
+  display: block;
+}
+ul li ul li a {
+  display: block !important;
+}
+ul li ul li:hover {
+  background: transparent;
+}

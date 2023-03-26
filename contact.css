@@ -1,0 +1,47 @@
+body {
+  background-image: url(image/sibou.png);
+}
+header {
+  display: flex;
+  align-items: center;
+  color: rgb(70, 44, 94);
+  display: block;
+}
+
+ul {
+  color: rgb(9, 45, 57);
+}
+a {
+  background-color: red;
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
+h2 {
+  font-size: x-large;
+  font-family: system-ui, -apple-system, BlinkMacSy500stemFont, "Segoe UI",
+    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(245, 241, 243);
+}
+main {
+  border-style: solid;
+  border-color: rgb(11, 11, 11);
+  display: flex;
+  display: inline-block;
+  width: 380px;
+  height: 500px;
+}
+input {
+  width: 180px;
+}
+.presentation {
+  color: rgb(32, 148, 17);
+}
+input[type="submit"] {
+  background-color: #17a2b8;
+  margin-top: 15px;
+  color: aliceblue;
+  border: 1px solid #17a2b8;
+  cursor: pointer;
+  width: 300px;
+}

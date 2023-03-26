@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(146, 158, 163);
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 10px;
+  border-radius: 80%;
+}
+h1 {
+  color: rgb(80, 17, 54);
+}
+a:hover {
+  color: red;
+}
+.hello {
+  border-width: 1px;
+  border-left: 20px;
+}
+h1 {
+  font-size: 50px;
+  color: red;
+}
+h4 {
+  font-size: 40px;
+  color: rgb(8, 42, 45);
+}
+ul {
+  color: transparent;
+}
+a {
+  color: black;
+}
+h3 {
+  color: rgb(9, 45, 57);
+}
